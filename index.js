@@ -19,14 +19,10 @@ app.set('view engine', 'ejs')
 
 app.listen(PORT, () => console.log('Example app listening on port 3000!'))
 
-
 app.use("/", login.auth());
  
-// Specify the path you want to wait for the callback from LINE authorization endpoint.
 app.use("/callback", login.callback((req, res, next, token_response) => {
-    // Success callback
     res.json(token_response);
 },(req, res, next, error) => {
-    // Failure callback
     res.status(400).json(error);
 }));
