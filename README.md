@@ -1,5 +1,5 @@
 # heroku-line-login-getting-started
-A clean simple project with clean data with Nodejs. for deploy in heroku useing [Express4](http://expressjs.com/)
+A clean simple project with clean data with Nodejs. for deploy in heroku useing [Express4](http://expressjs.com/)<br>
 This application support [this article](https://www.linkedin.com/pulse/getting-start-nodejs-heroku-narongsak-keawmanee/) - check it out.
 
 # Running Locally
@@ -27,7 +27,7 @@ or
 # Documentation
 For more information about using Node.js on Heroku, see these Dev Center articles:
 
-[Getting start Nodejs in Heroku.](https://www.linkedin.com/pulse/getting-start-nodejs-heroku-narongsak-keawmanee/)
-[Integrate line login with heroku](https://www.linkedin.com/pulse/integrate-line-login-heroku-narongsak-keawmanee/)
-[Integrating LINE Login with your web app](https://developers.line.me/en/docs/line-login/web/integrate-line-login/)
-[Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Getting start Nodejs in Heroku.](https://www.linkedin.com/pulse/getting-start-nodejs-heroku-narongsak-keawmanee/)
+- [Integrate line login with heroku](https://www.linkedin.com/pulse/integrate-line-login-heroku-narongsak-keawmanee/)
+- [Integrating LINE Login with your web app](https://developers.line.me/en/docs/line-login/web/integrate-line-login/)
+- [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
