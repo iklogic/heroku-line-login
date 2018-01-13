@@ -15,6 +15,10 @@ $ npm start
 ```
 Your app should now be running on localhost:3000.
 
+# Change configuration
+- copy `.env.example` to `.env`
+- edit data in `.env` file
+
 # Deploying to Heroku
 
 ```
@@ -22,9 +26,7 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
-or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iklogic/heroku-line-login/tree/line-login-complete)
 
 # Documentation
 For more information about using Node.js on Heroku, see these Dev Center articles:
