@@ -6,7 +6,7 @@ This application support [this article](https://www.linkedin.com/pulse/getting-s
 Make sure you have [Node.js](https://nodejs.org/en/) and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.
 
 ```
-$ git clone git@github.com:iklogic/heroku-line-login.git -b master # or clone your own fork
+$ git clone git@github.com:klogic/heroku-line-login.git -b master # or clone your own fork
 $ cd heroku-line-login
 $ npm install
 $ npm start
@@ -22,7 +22,7 @@ $ heroku open
 ```
 or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iklogic/heroku-line-login/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/klogic/heroku-line-login/tree/master)
 
 # Documentation
 For more information about using Node.js on Heroku, see these Dev Center articles:
