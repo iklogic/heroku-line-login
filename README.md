@@ -22,7 +22,7 @@ $ heroku open
 ```
 or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/iklogic/heroku-line-login/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iklogic/heroku-line-login/tree/master)
 
 # Documentation
 For more information about using Node.js on Heroku, see these Dev Center articles:
